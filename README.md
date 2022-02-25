@@ -1,6 +1,6 @@
 # Wifi-Info
-Wifi-Info is a tool to display the information of all the networks around you
-
+<h4>Wifi-Info is a tool to display the information of all the networks around you</h4>
+<p>
 <p dir="auto"><strong>1. Download framework from github</strong><br>
 <code>git clone https://github.com/moaltaie/Wifi-Info.git</code></p>
 
