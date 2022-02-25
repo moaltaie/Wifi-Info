@@ -6,7 +6,7 @@ Wifi-Info is a tool to display the information of all the networks around you
 
 <p dir="auto"><strong>2. install dependencies</strong><br>
 <code>cd Wifi-Info</code><br>
-<code>python3 -m pip install wifi</code></p>
+<code>python3 -m pip Install wifi</code></p>
 
 <p dir="auto"><strong>3. Run the tool</strong><br>
 <code>python3 wifi-info.py</code></p>
